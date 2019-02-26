@@ -1,0 +1,175 @@
+@media (max-width: 1200px) {
+  .howitworks .tasks a .sec h2 {
+    font-size: 30px; }
+
+  .orders .modal.in .modal-dialog {
+    width: auto; } }
+@media (max-width: 992px) {
+  .getintuch, .pricing {
+    padding-top: 100px; }
+
+  .getintuch .forma, .pricing .price {
+    margin-bottom: 50px;
+    padding: 20px 20px 20px 20px; }
+
+  .login img, .pluginsuccessfuly img {
+    margin-top: 65px;
+    margin-bottom: 65px; }
+
+  .getintuch h2, .pricing h2 {
+    margin-bottom: 50px;
+    font-size: 25px; }
+
+  .pricing .price .btncreateacc {
+    display: block;
+    position: relative; }
+
+  .pricing .pricetm {
+    margin-top: 20px; }
+
+  .pluginsuccessfuly .icosucc {
+    margin-bottom: 30px; }
+
+  .connectwithplugin input {
+    margin-top: 30px;
+    margin-bottom: 20px; }
+
+  .welcome img, .connectwithplugin img {
+    margin-top: 65px;
+    margin-bottom: 65px; }
+
+  .welcome h1, .connectwithplugin h1, .pluginsuccessfuly h1, .pricing h1, .getintuch h1 {
+    font-size: 25px;
+    text-align: center;
+    line-height: 30px; }
+
+  .welcome .btnsignup {
+    margin-top: 0; }
+
+  .welcome .pp {
+    margin-top: 25px; }
+
+  .welcome p, .connectwithplugin p {
+    margin-bottom: 30px;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 20px; }
+
+  .login .forma {
+    padding: 40px 30px 40px 30px; }
+
+  .login .pp2 {
+    margin-top: 30px;
+    margin-bottom: 30px; }
+
+  .hero {
+    padding-top: 130px;
+    padding-bottom: 50px;
+    background: url("../img/bgfirst.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; }
+
+  .hero .forma {
+    padding: 30px 40px 30px 40px; }
+
+  .hero h1 {
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px; }
+
+  .hero p {
+    margin-top: 30px;
+    text-align: center; }
+
+  .hero .readmorebtn {
+    margin-top: 30px;
+    margin-bottom: 50px; }
+
+  .hero .forma .crtica {
+    margin: auto;
+    width: 100px; }
+
+  .hero .forma form h2, input {
+    text-align: center; }
+
+  .hero .forma h1 {
+    font-size: 24px; }
+
+  .hero .formarow {
+    padding-right: 15px; }
+
+  .howitworks {
+    padding-top: 50px;
+    padding-bottom: 100px; }
+
+  .howitworks .tasks {
+    margin-top: 0px; }
+
+  .howitworks .tasks h2 {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 30px; }
+
+  .howitworks .tasks a .sec {
+    padding: 40px 15px 40px 15px; }
+
+  .headingex p {
+    margin-bottom: 80px; }
+
+  .headingex .tabsmn .tab-content {
+    margin-top: 40px; }
+
+  .headingex .tabsmn p {
+    margin-bottom: 40px; }
+
+  .headingex {
+    padding-bottom: 80px; }
+
+  .cta {
+    padding-bottom: 50px;
+    padding-top: 50px; }
+
+  .footer h1 {
+    padding-top: 20px;
+    border-top: 1px solid #ffffff; }
+
+  .footer h1, .footer p {
+    text-align: center; }
+
+  .cta h1 {
+    margin-bottom: 30px;
+    font-size: 30px; }
+
+  .footer .cop1, .footer .cop2 {
+    padding-right: 15px;
+    padding-left: 15px; }
+
+  .footer .cop1 ul li {
+    display: block;
+    text-align: center;
+    padding: 0; }
+
+  .footer .cop2 p {
+    text-align: center; } }
+@media (max-width: 768px) {
+  .navbar-default .navbar-nav > li > .menubtn {
+    margin-right: 10px; }
+
+  .navbar-default .navbar-brand img {
+    height: 20px; }
+
+  .orders .modal.in .modal-dialog {
+    text-align: center; }
+    .orders .modal.in .modal-dialog .naslov {
+      border: none !important; }
+
+  .orders .modal.in .modal-dialog .modal-content .crtica {
+    margin: auto; } }
+@media (max-width: 400px) {
+  .orders .modal.in .modal-dialog .modal-content .modal-body .col-xs-4 p, .orders .modal.in .modal-dialog .modal-content .modal-body .col-xs-8 p, .orders .modal.in .modal-dialog .modal-content .modal-body .col-sm-4 p, .orders .modal.in .modal-dialog .modal-content .modal-body .col-sm-8 p {
+    font-size: 8px; } }
+
+/*# sourceMappingURL=responsive.css.map */
